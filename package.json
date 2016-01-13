@@ -1,0 +1,36 @@
+{
+  "name": "gulp-modify-filter",
+  "description": "",
+  "version": "0.1.0",
+  "author": {
+    "name": "nju33",
+    "email": "sski0155+npm@gmail.com",
+    "url": "http://nju33.work/"
+  },
+  "bugs": {
+    "url": "https://github.com/totora0155/gulp-modify-filter/issues"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.1.2"
+  },
+  "homepage": "https://github.com/totora0155/gulp-modify-filter#readme",
+  "keywords": [
+    "gulp",
+    "gulpplugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:totora0155/gulp-modify-filter.git"
+  },
+  "scripts": {
+    "start": "gulp",
+    "test": "",
+  }
+}
